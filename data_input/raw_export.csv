@@ -1,0 +1,8 @@
+timestamp, event_id, user_email,   action_type, revenue_amount, status
+2026-03-01 08:14:22, #9812, USER1@GMAIL.COM , purchase, $150.00, success
+ 2026-03-01 09:05:11, #9813, user2@yahoo.com, page_view, , SUCCESS
+2026-03-01 09:12:00, #9814, USER3@OUTLOOK.COM, purchase, 45.50 , failed
+2026-03-01 09:15:33, #9812, USER1@GMAIL.COM , purchase, $150.00, success
+2026-03-01 09:12:00,,USER5@OUTLOOK.COM, purchase, 453.50 , failed
+2026-03-01 09:12:00, ,USER5@OUTLOOK.COM, purchase, 453.50 , failed
+2026-03-01 09:12:00, #9815, USER5@OUTLOOK.COM, purchase, 453.50 , failed

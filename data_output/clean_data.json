@@ -1,0 +1,34 @@
+[
+{
+  "timestamp": "2026-03-01 08:14:22",
+  "event_id": "#9812",
+  "user_email": "user1@gmail.com",
+  "action_type": "purchase",
+  "revenue_amount": 150,
+  "status": "success"
+},
+{
+  "timestamp": "2026-03-01 09:05:11",
+  "event_id": "#9813",
+  "user_email": "user2@yahoo.com",
+  "action_type": "page_view",
+  "revenue_amount": 0,
+  "status": "success"
+},
+{
+  "timestamp": "2026-03-01 09:12:00",
+  "event_id": "#9814",
+  "user_email": "user3@outlook.com",
+  "action_type": "purchase",
+  "revenue_amount": 45.5,
+  "status": "failed"
+},
+{
+  "timestamp": "2026-03-01 09:12:00",
+  "event_id": "#9815",
+  "user_email": "user5@outlook.com",
+  "action_type": "purchase",
+  "revenue_amount": 453.5,
+  "status": "failed"
+}
+]

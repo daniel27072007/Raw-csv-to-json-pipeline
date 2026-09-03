@@ -1,0 +1,8 @@
+{
+  "name": "csv-to-json-parser-automation",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "csv-parser": "^3.2.1"
+  }
+}
